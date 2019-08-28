@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgpaulavicius%2Fbucardo.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgpaulavicius%2Fbucardo?ref=badge_shield)
+
 
 Bucardo - a table-based replication system
 
@@ -61,3 +63,7 @@ the mailing list anyway, so help save time for everyone by posting there directl
 Post, subscribe, and see previous archives here:
 
 https://bucardo.org/mailman/listinfo/bucardo-general
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgpaulavicius%2Fbucardo.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgpaulavicius%2Fbucardo?ref=badge_large)
